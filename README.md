@@ -7,6 +7,6 @@ Can we leverage machine learning to predict a candidate's complex traits like pe
 
 
 ### Overview:
-● Development of a machine learning model that connects observable traits from a physical interview to complex, unobservable traits. 
-● Utilization of XGBoost and Polynomial Regression to predict complex traits based on simple ones.
+● Development of a machine learning model that connects observable traits from a physical interview to complex, unobservable traits. \n
+● Utilization of XGBoost and Polynomial Regression to predict complex traits based on simple ones.\n
 ● Exploration of the potential of machine learning in enhancing traditional interview processes.
